@@ -1,41 +1,38 @@
-Litecoin 0.8.x BETA
-====================
+Stuycoin 0.1
+============
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Litecoin Developers
+- Copyright (c) 2009-2013 Bitcoin Developers
+- Copyright (c) 2011-2013 Litecoin Developers
+- Copyright (c) 2013 Stuycoin Developers
 
-Distributed under the MIT/X11 software license, see the accompanying
-file COPYING or http://www.opensource.org/licenses/mit-license.php.
-This product includes software developed by the OpenSSL Project for use in the [OpenSSL Toolkit](http://www.openssl.org/). This product includes
-cryptographic software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cryptsoft.com)), and UPnP software written by Thomas Bernard.
-
+Distributed under the MIT/X11 software license; see the accompanying file
+COPYING or http://www.opensource.org/licenses/mit-license.php. This product
+includes software developed by the OpenSSL Project for use in the
+[OpenSSL Toolkit](http://www.openssl.org/). This product includes cryptographic
+software written by Eric Young ([eay@cryptsoft.com](mailto:eay@cryptsoft.com)),
+and UPnP software written by Thomas Bernard.
 
 Intro
----------------------
-Litecoin is a free open source peer-to-peer electronic cash system that is
+-----
+Stuycoin is a free open source peer-to-peer electronic cash system that is
 completely decentralized, without the need for a central server or trusted
 parties.  Users hold the crypto keys to their own money and transact directly
 with each other, with the help of a P2P network to check for double-spending.
 
-
 Setup
----------------------
-You need the Qt4 run-time libraries to run Litecoin-Qt. On Debian or Ubuntu:
+-----
+You need the Qt4 run-time libraries to run Stuycoin-Qt. On Debian or Ubuntu:
 	`sudo apt-get install libqtgui4`
 
 Unpack the files into a directory and run:
 
-- bin/32/litecoin-qt (GUI, 32-bit)
-- bin/32/litecoind (headless, 32-bit)
-- bin/64/litecoin-qt (GUI, 64-bit)
-- bin/64/litecoind (headless, 64-bit)
-
-See the documentation at the [Litecoin Wiki](http://litecoin.info)
-for help and more information.
-
+- bin/32/stuycoin-qt (GUI, 32-bit)
+- bin/32/stuycoind (headless, 32-bit)
+- bin/64/stuycoin-qt (GUI, 64-bit)
+- bin/64/stuycoind (headless, 64-bit)
 
 Other Pages
----------------------
+-----------
 - [Unix Build Notes](build-unix.md)
 - [OSX Build Notes](build-osx.md)
 - [Windows Build Notes](build-msw.md)
