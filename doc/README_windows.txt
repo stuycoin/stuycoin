@@ -1,4 +1,4 @@
-Stuycoin 0.8.x BETA
+Stuycoin 0.1
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
